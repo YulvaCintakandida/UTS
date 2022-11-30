@@ -7,7 +7,7 @@ package com.main;
 
 /**
  *
- * @author Ai Dina Agustin
+ * @author Yulva
  */
 import com.persegipanjang.PersegiPanjang;
 import com.lingkaran.Lingkaran;
