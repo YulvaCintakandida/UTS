@@ -7,7 +7,7 @@ package com.bangundatar;
 
 /**
  *
- * @author Ai Dina Agustin
+ * @author Yulva
  */
 public interface BangunDatar {
     public double luas();
