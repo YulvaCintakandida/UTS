@@ -24,4 +24,4 @@ public class PersegiPanjang implements BangunDatar {
     public double luas() {
         return panjang * lebar;
     }
-}
+} 
