@@ -9,7 +9,7 @@ import com.bangundatar.BangunDatar;
 
 /**
  *
- * @author Ai Dina Agustin
+ * @author Yulva
  */
 public class Lingkaran implements BangunDatar {
     private int jari;
