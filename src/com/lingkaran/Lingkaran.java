@@ -18,7 +18,7 @@ public class Lingkaran implements BangunDatar {
         this.jari = jari;
 
     }
-    
+  
     @Override
     public double luas() {
         return ( Math.PI * jari * jari) / 2 ;
