@@ -27,6 +27,5 @@ public class Main {
         Lingkaran lingkaran = new Lingkaran(jari);
         
         System.out.print("Luas daerah yang diarsir adalah " + persegi.luas() + " cm - " + lingkaran.luas() + " cm = " + (persegi.luas() - lingkaran.luas()) + " cm");
-    }
-    
+    }   
 }
